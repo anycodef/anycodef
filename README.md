@@ -32,6 +32,8 @@
     <br/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/pygame-black?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="Arch Linux" />
     <br/>
     <img src="https://img.shields.io/badge/COBOL-black?style=for-the-badge&logo=ibm&logoColor=00B7C6" alt="COBOL" />
     <img src="https://img.shields.io/badge/JCL-black?style=for-the-badge&logo=ibm&logoColor=00B7C6" alt="JCL" />
@@ -46,24 +48,12 @@
   ### 📊 GitHub Stats
 
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=anycodef&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-  </div>
-
-  <br/>
-
-  <div align="center">
     <a href="https://github.com/anycodef">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anycodef&show_icons=true&hide_border=true&title_color=00B7C6&icon_color=00B7C6&text_color=ffffff&bg_color=000000" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/anycodef">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anycodef&layout=compact&hide_border=true&title_color=00B7C6&text_color=ffffff&bg_color=000000" alt="Top Languages" />
     </a>
-  </div>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anycodef&hide_border=true&ring=00B7C6&fire=00B7C6&currStreakLabel=00B7C6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" alt="Streak Stats" />
   </div>
 
   <br/>
