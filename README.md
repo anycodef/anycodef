@@ -23,23 +23,28 @@
 - 🏦 Developer at **Banco de la Nación**, working with both modern and legacy banking systems.
 - 🏗️ Focused on designing **robust software architectures** and **distributed systems**.
 - 🐧 **Arch Linux** user with the **Sway** window manager and terminal-driven workflows.
+- ⌨️ I strongly prefer the **terminal over graphical interfaces** — keyboard-first, text-based workflows.
 - 📚 Currently learning **microservice migration patterns** (e.g. *Strangler Fig*) and **AI agent workflows**.
 
 ---
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 **Architecture**
 
 <img src="https://img.shields.io/badge/Distributed%20Systems-000000?style=for-the-badge&logo=apachekafka&logoColor=00B7C6" alt="Distributed Systems" />
 <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=spring&logoColor=00B7C6" alt="Microservices" />
-<img src="https://img.shields.io/badge/Circuit%20Breakers-000000?style=for-the-badge&logo=resilience4j&logoColor=00B7C6" alt="Circuit Breakers" />
 <img src="https://img.shields.io/badge/Fault%20Tolerance-000000?style=for-the-badge&logo=statuspage&logoColor=00B7C6" alt="Fault Tolerance" />
+<br/>
+<img src="https://img.shields.io/badge/Circuit%20Breakers-000000?style=for-the-badge&logo=resilience4j&logoColor=00B7C6" alt="Circuit Breakers" />
 
 **Backend**
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
 **Frontend**
@@ -49,25 +54,39 @@
 **Mainframe**
 
 <img src="https://img.shields.io/badge/COBOL-005CA9?style=for-the-badge&logo=ibm&logoColor=white" alt="COBOL" />
-<img src="https://img.shields.io/badge/z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS" />
 <img src="https://img.shields.io/badge/JCL-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="JCL" />
+<br/>
+<img src="https://img.shields.io/badge/z%2FOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="z/OS" />
+
+**Terminal & Environment**
+
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CMD" />
+<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH" />
+<br/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+<br/>
+<img src="https://img.shields.io/badge/Sway-68751C?style=for-the-badge&logo=sway&logoColor=white" alt="Sway" />
 
 **Infrastructure & DevOps**
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<br/>
 <img src="https://img.shields.io/badge/Control--M-FF6600?style=for-the-badge&logo=bmc&logoColor=white" alt="Control-M" />
 
 **AI & Tools**
 
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 <img src="https://img.shields.io/badge/watsonx-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" alt="watsonx" />
+<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-<img src="https://img.shields.io/badge/Sway-68751C?style=for-the-badge&logo=sway&logoColor=white" alt="Sway" />
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+
+</div>
 
 ---
 
