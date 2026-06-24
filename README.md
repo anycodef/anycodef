@@ -111,9 +111,9 @@
 ### 📌 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
+- **[iot-mqtt-stack](https://github.com/anycodef/iot-mqtt-stack)** `(C++)`
 - **[NaturApp](https://github.com/anycodef/NaturApp)** `(JavaScript)`
 - **[controlm-banca-jobs-as-code](https://github.com/anycodef/controlm-banca-jobs-as-code)** `(Shell)`
-- **[iot-mqtt-stack](https://github.com/anycodef/iot-mqtt-stack)** `(C++)`
 - **[ao-audio-router](https://github.com/anycodef/ao-audio-router)** — Per-application audio router for Linux (PipeWire/PulseAudio): route each app to a chosen output, with a TUI, CLI and saved profiles. `(Python)`
 - **[terminal-player](https://github.com/anycodef/terminal-player)** `(Python)`
 <!-- LATEST_REPOS:END -->
