@@ -111,11 +111,11 @@
 ### 📌 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
+- **[gpumode](https://github.com/anycodef/gpumode)** — Lightweight, no-reboot on/off/auto power control for a compute-only NVIDIA Optimus dGPU on Linux (runtime D3cold). Keep the card at ~0W while you work in the terminal, power it up only for CUDA/OpenCL. `(Shell)`
+- **[lidmode](https://github.com/anycodef/lidmode)** — Toggle what happens when your Linux laptop lid closes: suspend, or keep running with the screen off (WiFi and processes stay alive). `(Shell)`
 - **[mlops-wine-classifier](https://github.com/anycodef/mlops-wine-classifier)** `(Python)`
 - **[iot-airsafe-ecies](https://github.com/anycodef/iot-airsafe-ecies)** `(C++)`
 - **[iot-mqtt-stack](https://github.com/anycodef/iot-mqtt-stack)** `(C++)`
-- **[NaturApp](https://github.com/anycodef/NaturApp)** `(JavaScript)`
-- **[controlm-banca-jobs-as-code](https://github.com/anycodef/controlm-banca-jobs-as-code)** `(Shell)`
 <!-- LATEST_REPOS:END -->
 
 ---
