@@ -111,11 +111,11 @@
 ### 📌 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
+- **[Doube](https://github.com/anycodef/Doube)** — This proyect consist in a app for download videos and audio from youtube platform and save locally. `(Python)`
 - **[iot-airsafe-ecies](https://github.com/anycodef/iot-airsafe-ecies)** `(C++)`
 - **[gpumode](https://github.com/anycodef/gpumode)** — Lightweight, no-reboot on/off/auto power control for a compute-only NVIDIA Optimus dGPU on Linux (runtime D3cold). Keep the card at ~0W while you work in the terminal, power it up only for CUDA/OpenCL. `(Shell)`
 - **[lidmode](https://github.com/anycodef/lidmode)** — Toggle what happens when your Linux laptop lid closes: suspend, or keep running with the screen off (WiFi and processes stay alive). `(Shell)`
 - **[mlops-wine-classifier](https://github.com/anycodef/mlops-wine-classifier)** `(Python)`
-- **[iot-mqtt-stack](https://github.com/anycodef/iot-mqtt-stack)** `(C++)`
 <!-- LATEST_REPOS:END -->
 
 ---
