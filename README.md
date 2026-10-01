@@ -111,11 +111,11 @@
 ### 📌 Latest Repositories
 
 <!-- LATEST_REPOS:START -->
+- **[terminal-player](https://github.com/anycodef/terminal-player)** `(Python)`
 - **[proyecto-taller-aplicaciones-sociales](https://github.com/anycodef/proyecto-taller-aplicaciones-sociales)** `(TypeScript)`
 - **[ccacct](https://github.com/anycodef/ccacct)** — Switch between Claude Code accounts without logging in again — history, projects and MCP authorizations stay shared `(Python)`
 - **[whisperclip](https://github.com/anycodef/whisperclip)** — Local, offline voice-to-clipboard dictation for Sway/Wayland using whisper.cpp — GPU/CPU auto-select, Bluetooth-safe, searchable history. `(Shell)`
 - **[Doube](https://github.com/anycodef/Doube)** — This proyect consist in a app for download videos and audio from youtube platform and save locally. `(Python)`
-- **[iot-airsafe-ecies](https://github.com/anycodef/iot-airsafe-ecies)** `(C++)`
 <!-- LATEST_REPOS:END -->
 
 ---
